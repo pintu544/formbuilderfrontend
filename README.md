@@ -52,7 +52,7 @@
 <li>
 <p>Clone the repository:</p>
 <p>bash</p>
-<p><code>git clone https://github.com/your-username/form-builder.git cd form-builder</code></p>
+<p><code>git clone [https://github.com/pintu544/formbuilderfrontend](https://github.com/pintu544/formbuilderfrontend) cd formbuilderfrontend</code></p>
 </li>
 <li>
 <p>Install dependencies for the frontend and backend:</p>
@@ -61,7 +61,13 @@
 cd client<br>
 npm install</p>
 <h1 id="backend">Backend</h1>
-<p>cd …/server<br>
+  <li>
+<p>Clone the repository:</p>
+<p>bash</p>
+<p><code>git clone [https://github.com/pintu544/formbuilderbackend](https://github.com/pintu544/formbuilderbackend) cd formbuilderbackend</code></p>
+</li>
+<li>
+
 npm install`</p>
 </li>
 <li>
